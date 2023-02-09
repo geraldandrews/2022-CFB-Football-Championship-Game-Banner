@@ -1,4 +1,4 @@
-### 2022-CFB-Football-Championship-Game-Banner
+# 2022-CFB-Football-Championship-Game-Banner
 
 ### Project Description: Personal
 ### Programs Used: GIMP
