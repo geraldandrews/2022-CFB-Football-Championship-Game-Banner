@@ -1,7 +1,6 @@
 # 2022-CFB-Football-Championship-Game-Banner
 
-<b>Program Used: GIMP<br>
-   Date: 2022</b>
+
    
    This project is a banner I created of the 2022 CFB National Championship Game. I created it because of my love and interest in college football and I used the 
    photo manipulation software program GIMP to blend various PNG images and text together over a background to create this banner.
