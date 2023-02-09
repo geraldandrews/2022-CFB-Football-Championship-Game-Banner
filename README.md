@@ -2,7 +2,7 @@
 
 ### Project Description: Personal
 ### Programs Used: GIMP
-### Date Created 2022
+### Date Created: 2022
 
 ## Description:
 This project is a banner I created of the 2022 CFB National Championship Game. I created it because of my love and interest in college football and I used the 
